@@ -8,3 +8,4 @@ My classwork from [BGGN213](https://bioboot.github.io/bggn213_F23/) at UC San Di
 - Class 13: [class 13](https://github.com/sup023/BGGN213_github/blob/main/Class%2013/Class13%20copy.pdf)
 - Class 14: [Transcriptomics and the analysis of RNA-Seq data](https://github.com/sup023/BGGN213_github/blob/main/Class%2014/class14.pdf)
 - Halloween mini project: [Halloween mini project](https://github.com/sup023/BGGN213_github/blob/main/Halloween%20mini%20project/Halloween-mini-project.pdf)
+- Mini project: [RNA seq analysis](https://github.com/sup023/BGGN213_github/blob/main/Mini-project/Untitled.pdf)
